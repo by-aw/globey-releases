@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Globey</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Tue, 17 Nov 2026 18:25:33 -0500</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/by-aw/globey-releases/releases/download/v0.1/Globey-0.1.dmg" length="7212612" type="application/octet-stream" sparkle:edSignature="mQOwGq5D/BfnQ/KKBjoBR0Go6iJPsIeQIAIT1DaAlKSCndsbllqABieL6hW6Kx0lbx+j0ymDiCWecVVx0TtwAw=="/>
+        </item>
+    </channel>
+</rss>
